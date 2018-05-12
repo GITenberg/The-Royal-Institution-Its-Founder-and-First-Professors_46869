@@ -1,10 +1,16 @@
 _repo: The-Royal-Institution-Its-Founder-and-First-Professors_46869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jones, Bence
     gutenberg_agent_id: '44013'
     url: http://www.gutenberg.org/2009/agents/44013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46869#The-Royal-Institution-Its-Founder-and-First-Professors
 gutenberg_issued: '2014-09-17'
 gutenberg_type: Text
 identifiers:
